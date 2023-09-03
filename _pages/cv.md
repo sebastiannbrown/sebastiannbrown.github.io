@@ -11,31 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Economics, B.S. Mathematics, Ballroom Minor, Brigham Young University, 2018
+* M.S. Economics, UC Santa Barbara, 2020
+* Ph.D Economics, UC Santa Barbara, 2025 (Expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Teaching Assistant, September 2019 - Present
+  * UC Santa Barbara
+  * Duties
+       * Teaching students individually and in sections
+       * Test design, grading, and proctoring
+       * Course website management
+  * Courses
+       * Labor Economics
+       * Intermediate Microeconomic Theory
+       * Principles of Microeconomics
+       * Intermediate Macroeconomic Theory 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant, June 2017 - June 2019
+  * Brigham Young University
+  * Duties
+       * Data cleaning and analysis
+       * Web scraping
+       * Optical character recognition programming
+
+* Teaching Assitant, August 2016 - June 2017
+  * Brigham Young University
+  * Duties
+      * Teaching students individually and in sections
+	  * Test design and grading
+  * Course
+      * Economic Principles and Problems
   
-Skills
+Languages
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Stata
+* English
+* Romanian
 
+<!---
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -47,13 +63,14 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Missionary, 2013-2015
+-->
