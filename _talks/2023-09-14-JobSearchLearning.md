@@ -8,6 +8,6 @@ date: 2023-09-14
 location: "Santa Barbara, California"
 ---
 
-Pre-conference graduate poster presentation of working paper on job search learning.
+Conference graduate poster presentation of working paper on job search learning.
 
 [Download poster here](http://sebastiannbrown.github.io/files/ACLEC_Poster_2023.pdf)
