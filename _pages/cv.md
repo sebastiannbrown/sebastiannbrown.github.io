@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. Economics, B.S. Mathematics, Ballroom Minor, Brigham Young University, 2018
-* M.S. Economics, UC Santa Barbara, 2020
+* M.A. Economics, UC Santa Barbara, 2020
 * Ph.D Economics, UC Santa Barbara, 2025 (Expected)
 
 Work experience
