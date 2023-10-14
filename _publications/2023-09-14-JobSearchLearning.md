@@ -9,16 +9,17 @@ paperurl: 'http://sebastiannbrown.github.io/files/JobSearchLearning.pdf'
 citation: 'Brown, Sebastian and Kenneth Chan. (2023). &quot;Learning through Job Search: Insights on Belief Updating.&quot; <i>Working Paper</i>.'
 ---
 
-We use a nationally-representative survey (the labor supplement of the Survey of
+We use a nationally representative survey (the labor supplement of the Survey of
 Consumer Expectations) to study individuals’ behavioral biases in learning about their
-wage distributions. Using a recently-developed test for Bayesianism (Augenblick and
+wage distributions. Using a recently developed test for Bayesianism (Augenblick and
 Rabin, 2021), we find strong evidence of non-Bayesian learning. Specifically, among
-individuals who receive wage offers, we find an average movement in beliefs that is
-roughly 543% of the reduction in their beliefs’ uncertainty, a result consistent with
-base-rate neglect and/or overreaction to signals. We further examine the heterogeneity
-in agents’ learning by identifying specific non-Bayesian (and other) patterns, finding
-additional individual patterns that could be explained by Gambler’s Fallacy and opti-
-mistic reasoning
+respondents who receive wage offers, we find an average movement in beliefs that
+is roughly 543% of the reduction in their beliefs’ uncertainty, 443% more than the
+Bayesian benchmark, a result consistent with base-rate neglect and/or overreaction to
+signals. This estimate remains large and significant when examining subsets of the
+data separated by different labor market and demographic variables.
+We further examine the heterogeneity in agents’ learning by identifying specific non-Bayesian patterns
+that can be explained by multiple priors models and updating rules that accommodate motivated beliefs.
 
 [Download paper here](http://sebastiannbrown.github.io/files/JobSearchLearning.pdf)
 
