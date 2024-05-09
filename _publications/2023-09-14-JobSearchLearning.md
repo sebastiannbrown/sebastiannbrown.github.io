@@ -6,7 +6,7 @@ excerpt: 'How do people update their beliefs when encountering new information d
 date: 2023-09-14
 venue: ''
 paperurl: 'http://sebastiannbrown.github.io/files/JobSearchLearning.pdf'
-citation: 'Brown, Sebastian and Kenneth Chan. (2023). &quot;Learning through Job Search: Insights on Belief Updating.&quot; <i>Working Paper</i>.'
+citation: 'Brown, Sebastian and Kenneth Chan. (2024). &quot;Learning through Job Search: Insights on Belief Updating.&quot; <i>Working Paper</i>.'
 ---
 
 We use a nationally representative survey (the labor supplement of the Survey of
