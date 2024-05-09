@@ -1,6 +1,6 @@
 ---
 title: "How Much Can I Make? Insights on Belief Updating in
-the Labor Market (Feb 2024 Version)"
+the Labor Market"
 collection: talks
 type: "Presentation"
 permalink: /talks/2024-02-16-JobSearchLearning
