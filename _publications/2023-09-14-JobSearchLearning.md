@@ -2,7 +2,7 @@
 title: "Learning through Job Search: Insights on Belief Updating (with Kenneth Chan)"
 collection: publications
 permalink: /publication/2023-09-14-JobSearchLearning
-excerpt: 'How do people update their beliefs when encountering new information during job search? We analyze data from a recent government survey (the Survey of Consumer Expectations) and find evidence consistent with a model of prior distribution switching.'
+excerpt: 'How do people update their beliefs when encountering new information during job search? We analyze data from a recent government survey (the Survey of Consumer Expectations) and find evidence consistent with motivated reasoning and base-rate neglect.'
 date: 2023-09-14
 venue: ''
 paperurl: 'http://sebastiannbrown.github.io/files/JobSearchLearning.pdf'
