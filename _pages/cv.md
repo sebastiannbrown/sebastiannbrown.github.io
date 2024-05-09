@@ -48,6 +48,7 @@ Work experience
 Languages
 ======
 * Python
+* R
 * Stata
 * English
 * Romanian
