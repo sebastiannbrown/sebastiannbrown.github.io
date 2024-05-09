@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a PhD Student in Economics at the University of California, Santa Barbara.
-My general research interests are labor and personnel economics; more particularly, I am interested in the application of behavioral economic models to topics in labor economics.
-Most of my current work focuses on behavioral job search. The most recent draft of my working paper can be found in the research section of this site.
+Hello! I'm a PhD Candidate in Economics at the University of California, Santa Barbara.
+I do applied work in labor economics, personnel economics, and behavioral economics (particularly as it applies to the former two areas).
+I'm currently working on projects studying behavioral job search, corporate reputation effects on hiring, and mitigating motivated reasoning bias.
 
 <!---
 Section

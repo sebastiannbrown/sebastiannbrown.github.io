@@ -25,6 +25,7 @@ Work experience
        * Course website management
   * Courses
        * Labor Economics
+	   * Personnel Economics
        * Intermediate Microeconomic Theory
        * Principles of Microeconomics
        * Intermediate Macroeconomic Theory 
