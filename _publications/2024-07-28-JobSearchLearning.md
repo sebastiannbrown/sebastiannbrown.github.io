@@ -1,12 +1,12 @@
 ---
-title: "Learning through Job Search: Insights on Belief Updating (with Kenneth Chan)"
+title: "How Much Can I Make? Insights on Belief Updating in the Labor Market (with Kenneth Chan)"
 collection: publications
 permalink: /publication/2024-07-28-JobSearchLearning
 excerpt: 'How do people update their beliefs when encountering new information during job search? We analyze data from a recent government survey (the Survey of Consumer Expectations) and find evidence consistent with motivated reasoning and base-rate neglect.'
 date: 2024-07-28
 venue: ''
 paperurl: 'http://sebastiannbrown.github.io/files/JobSearchLearning.pdf'
-citation: 'Brown, Sebastian and Kenneth Chan. (2024). &quot;Learning through Job Search: Insights on Belief Updating.&quot; <i>Working Paper</i>.'
+citation: 'Brown, Sebastian and Kenneth Chan. (2024). &quot;How Much Can I Make? Insights on Belief Updating in the Labor Market.&quot; <i>Working Paper</i>.'
 ---
 
 We use a nationally representative survey, the labor supplement of the Survey of
