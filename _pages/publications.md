@@ -13,10 +13,6 @@ author_profile: true
 
 Job Market Paper
 
-<!--{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}-->
-
 {% for post in site.publications reversed %}
 {% if post.title == 'How Much Can I Make? Insights on Belief Updating in the Labor Market (with Kenneth Chan)' %}
 {% include archive-single.html %}
