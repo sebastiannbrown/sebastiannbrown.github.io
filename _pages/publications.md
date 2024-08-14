@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Working Papers"
+title: "Current Research"
 permalink: /publications/
 author_profile: true
 ---
@@ -11,6 +11,22 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+Job Market Paper
+
+<!--{% for post in site.publications reversed %}
   {% include archive-single.html %}
+{% endfor %}-->
+
+{% for post in site.publications reversed %}
+{% if post.title == 'How Much Can I Make? Insights on Belief Updating in the Labor Market (with Kenneth Chan)' %}
+{% include archive-single.html %}
+{% endif %}
+{% endfor %}
+
+Other Research
+
+{% for post in site.publications reversed %}
+{% if post.title != 'How Much Can I Make? Insights on Belief Updating in the Labor Market (with Kenneth Chan)' %}
+{% include archive-single.html %}
+{% endif %}
 {% endfor %}
