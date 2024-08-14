@@ -9,3 +9,5 @@ location: "Provo, Utah"
 ---
 
 Economics alumni conference presentation of current draft of job market paper.
+
+[Download presentation here](http://sebastiannbrown.github.io/files/BYU_Conference_2024_Slides.pdf)
