@@ -27,4 +27,5 @@ author_profile: true
 {% endif %}
 {% endfor %}
 
+<!---Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).--->
 <!---{% for post in site.publications reversed %} {% include archive-single.html %} {% endfor %}--->
