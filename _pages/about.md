@@ -10,7 +10,9 @@ redirect_from:
 
 Hello! I'm a PhD Candidate in Economics at the University of California, Santa Barbara.
 I do applied work in labor economics, personnel economics, and behavioral economics (particularly as it applies to the former two areas).
-I'm currently working on projects studying behavioral job search, corporate reputation effects on hiring, and mitigating motivated reasoning bias.
+I'm currently working on projects studying behavioral job search, pay transparency, and corporate reputation effects.
+
+I will be on the 2024-2025 job market. The most recent draft of my job market paper can be found under the "Research" tab at the top of this page. 
 
 <!---
 Section
