@@ -21,7 +21,7 @@ author_profile: true
 
 **Other Research**
 
-{% for post in site.research reversed %}
+{% for post in site.research %}
 {% if post.title != 'How Much Can I Make? Insights on Belief Updating in the Labor Market (with Kenneth Chan)' %}
 {% include archive-single.html %}
 {% endif %}

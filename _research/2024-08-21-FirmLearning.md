@@ -1,12 +1,11 @@
 ---
 title: "Firm Learning and Labor Demand"
 collection: research
-permalink: /research/2024-08-21-FirmLearning
-excerpt: ''
+excerpt: 'Project studying the value of labor market information to employers and employer learning patterns, as well as the effect of the same on job postings.
+Work in progress.'
 date: 2024-08-21
 venue: ''
 paperurl: ''
-citation: ''
 ---
 
 <!---Abstract Here--->
