@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+<embed src="{{ site.baseurl }}/files/CV.pdf" width="600" height="700" type='application/pdf'>
+
+<!---
 Education
 ======
 * B.S. Economics, B.S. Mathematics, Ballroom Minor, Brigham Young University, 2018
@@ -52,6 +55,7 @@ Languages
 * Stata
 * English
 * Romanian
+-->
 
 <!---
 Publications
