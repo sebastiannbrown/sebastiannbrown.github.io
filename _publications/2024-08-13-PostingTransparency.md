@@ -1,7 +1,7 @@
 ---
 title: "Posting Pay Transparency and Worker Outcomes: Evidence from Recent US State Laws (with Thomas Fullagar)"
-collection: publications
-permalink: /publication/2024-08-13-PostingTransparency
+collection: research
+permalink: /research/2024-08-13-PostingTransparency
 excerpt: 'How does pay transparency in job postings affect worker outcomes? We use a staggered difference-in-differences approach to study the effect of recent state-level laws in the US requiring requiring employers to list the expected wages in job listings.'
 date: 2024-08-13
 venue: ''

@@ -1,7 +1,7 @@
 ---
 title: "How Much Can I Make? Insights on Belief Updating in the Labor Market (with Kenneth Chan)"
-collection: publications
-permalink: /publication/2024-07-28-JobSearchLearning
+collection: research
+permalink: /research/2024-07-28-JobSearchLearning
 excerpt: 'How do people update their beliefs when encountering new information during job search? We analyze data from a recent government survey (the Survey of Consumer Expectations) and find evidence consistent with motivated reasoning and base-rate neglect.'
 date: 2024-07-28
 venue: ''
