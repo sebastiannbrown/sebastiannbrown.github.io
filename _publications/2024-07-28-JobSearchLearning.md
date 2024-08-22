@@ -17,7 +17,7 @@ aggregate level. Among survey respondents who responded at least twice to the su
 we find an average movement in beliefs that is roughly 513% of the reduction in their
 beliefs’ uncertainty, 413% more than the Bayesian benchmark. This result is consistent
 with base rate neglect and overreaction to signals, and we found suggestive evidence
-that people exhibit base-rate neglect. Our simulation shows that this result is unlikely
+that people exhibit base rate neglect. Our simulation shows that this result is unlikely
 to be explained solely by measurement error. We also found patterns of asymmetric
 updating, where individuals update their beliefs more when they receive good wage
 offers relative to bad wage offers.
