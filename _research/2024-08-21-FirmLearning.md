@@ -1,5 +1,5 @@
 ---
-title: "Firm Learning and Labor Demand"
+title: "The Role of Labor Market Information in Filling Vacancies"
 collection: research
 excerpt: 'Project studying the value of labor market information to employers and employer learning patterns, as well as the effect of the same on job postings.
 Work in progress.'
