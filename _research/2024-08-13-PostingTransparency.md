@@ -6,7 +6,7 @@ excerpt: 'How does pay transparency in job postings affect worker outcomes? We u
 date: 2024-08-13
 venue: ''
 paperurl: ''
-citation: 'Brown, Sebastian and Thomas Fullagar. (2024). &quot;Posting Pay Transparency and Worker Outcomes: Evidence from Recent US State Laws&quot; <i>Working Paper</i>.'
+citation: 'Brown, Sebastian and Thomas Fullagar. &quot;Posting Pay Transparency and Worker Outcomes: Evidence from Recent US State Laws.&quot; Working Paper, 2024.'
 ---
 
 <!---How does pay transparency in job postings affect worker outcomes?

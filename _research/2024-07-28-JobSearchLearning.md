@@ -6,7 +6,7 @@ excerpt: 'How do people update their beliefs when encountering new information d
 date: 2024-07-28
 venue: ''
 paperurl: 'http://sebastiannbrown.github.io/files/JobSearchLearning.pdf'
-citation: 'Brown, Sebastian and Kenneth Chan. (2024). &quot;How Much Can I Make? Insights on Belief Updating in the Labor Market.&quot; <i>Working Paper</i>.'
+citation: 'Brown, Sebastian and Kenneth Chan. &quot;How Much Can I Make? Insights on Belief Updating in the Labor Market.&quot; <i>Working Paper</i>, 2024.'
 ---
 
 We use a nationally representative survey, the labor supplement of the Survey of
