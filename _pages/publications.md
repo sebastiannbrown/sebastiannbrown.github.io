@@ -11,8 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-test
-
 **Job Market Paper**
 
 {% for post in site.research reversed %}
@@ -24,7 +22,7 @@ test
 **Other Research**
 
 {% for post in site.research %}
-{% if post.title != 'How Much Can I Make? Insights on Belief Updating in the Labor Market (with Kenneth Chan)' && post.title != Baseball and life expectancy: evidence from linked historical data (with Joseph Price and Jacob Van Leeuwen)%}
+{% if post.title != 'How Much Can I Make? Insights on Belief Updating in the Labor Market (with Kenneth Chan)' & post.title != Baseball and life expectancy: evidence from linked historical data (with Joseph Price and Jacob Van Leeuwen)%}
 {% include archive-single.html %}
 {% endif %}
 {% endfor %}
