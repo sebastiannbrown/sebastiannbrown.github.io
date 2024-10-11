@@ -37,7 +37,6 @@ author_profile: true
 {% endif %}
 {% endfor %}
 
-
 {% comment %}
 {% for post in site.research reversed %}
 {% include archive-single.html %}
