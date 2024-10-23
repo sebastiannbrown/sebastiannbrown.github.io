@@ -1,5 +1,5 @@
 ---
-title: "Combating Inequality with Transparency: Evidence from Colorado (with Thomas Fullagar)"
+title: "Combating Inequality with Transparency? Evidence from Colorado (with Thomas Fullagar)"
 collection: research
 permalink: /research/2024-08-13-PostingTransparency
 excerpt: 'Does greater transparency in job postings help to reduce wage differentials? We use a synthetic control approach to study the effect of a recent state-level law in Colorado requiring requiring employers to list expected salary information in job listings and do not find that it had its intended effect of reducing the gender pay gap.'
