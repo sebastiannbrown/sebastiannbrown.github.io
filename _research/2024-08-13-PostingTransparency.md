@@ -5,7 +5,7 @@ permalink: /research/2024-08-13-PostingTransparency
 excerpt: 'Does greater transparency in job postings help to reduce wage differentials? We use a synthetic control approach to study the effect of a recent state-level law in Colorado requiring requiring employers to list expected salary information in job listings and do not find that it had its intended effect of reducing the gender pay gap.'
 date: 2024-08-13
 venue: ''
-paperurl: 'http://sebastiannbrown.github.io/files/PayTransparencyGenderGap.pdf''
+paperurl: 'http://sebastiannbrown.github.io/files/PayTransparencyGenderGap.pdf'
 citation: 'Brown, Sebastian and Thomas Fullagar. &quot;Combating Inequality with Transparency: Evidence from Colorado.&quot; Working Paper, 2024.'
 ---
 
