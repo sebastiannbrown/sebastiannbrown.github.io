@@ -11,10 +11,12 @@ citation: 'Brown, Sebastian and Thomas Fullagar. &quot;Combating Inequality with
 
 Does giving workers more information on wages help eliminate wage differentials?
 We leverage a recent law passed in Colorado requiring employers to list the expected wages in job listings to study this question.
-Using a synthetic control approach and administrative data on worker earnings, we find no causal evidence of a reduction in the gender gap in monthly earnings of newly hired workers in Colorado.
-We conduct additional correlational analysis on potential mechanisms through which the law could have impacted the gender pay gap
-(directed search, bargaining, and signal informativeness). Overall, our correlational evidence is consistent with male workers taking more
-advantage of the increased transparency in postings than female workers, which could have had an attenuating effect on the policy's capacity
-to reduce the gender gap. Our paper highlights the importance of ensuring information policy is properly targeted to its intended beneficiaries.
+Using a synthetic control approach, we find no causal evidence of a reduction in the gender gap in Colorado.
+On the contrary, our analysis suggests that the gender pay gap between men and women <i>increased</i> in Colorado after passage of the law,
+although this finding is not significant at the 5% level using placebo tests.
+We conduct additional correlational analysis on potential mechanisms through which the law could have impacted the gender pay gap (directed search, bargaining, and signal informativeness).
+Overall, our correlational evidence is consistent with male workers taking more advantage of the increased transparency in postings than female workers,
+which could have had an adverse effect on the policy's capacity to reduce the gender gap.
+Our paper highlights the importance of ensuring information policy is properly targeted to its intended beneficiaries.
 
 <!---Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).--->
