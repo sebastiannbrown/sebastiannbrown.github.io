@@ -6,7 +6,7 @@ excerpt: 'Does greater transparency in job postings help to reduce wage differen
 date: 2024-08-13
 venue: ''
 paperurl: 'http://sebastiannbrown.github.io/files/PayTransparencyGenderGap.pdf'
-citation: 'Brown, Sebastian and Thomas Fullagar. &quot;Combating Inequality with Transparency: Evidence from Colorado.&quot; Working Paper, 2024.'
+citation: 'Brown, Sebastian and Thomas Fullagar. &quot;Combating Inequality with Transparency: Evidence from Colorado.&quot; Working Paper, 2025.'
 ---
 
 Does giving workers more information on wages help eliminate wage differentials?
