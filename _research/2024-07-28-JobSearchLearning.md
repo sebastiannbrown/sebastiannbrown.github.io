@@ -2,7 +2,7 @@
 title: "How Much Can I Make? Insights on Belief Updating in the Labor Market (with Kenneth Chan)"
 collection: research
 permalink: /research/2024-07-28-JobSearchLearning
-excerpt: 'How do people update their beliefs when encountering new information during job search? We analyze data from a recent government survey (the Survey of Consumer Expectations) and find evidence consistent with motivated reasoning and base-rate neglect.'
+excerpt: 'How do people update their beliefs when encountering new information about labor market opportunities? We analyze data from a recent government survey (the Survey of Consumer Expectations) and find strong evidence of non-Bayesian learning at the aggregate level.'
 date: 2024-07-28
 venue: ''
 paperurl: 'http://sebastiannbrown.github.io/files/JobSearchLearning.pdf'
