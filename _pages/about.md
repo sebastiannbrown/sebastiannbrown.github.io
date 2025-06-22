@@ -15,7 +15,7 @@ Additionally, I care deeply about undergraduate student success as an educator. 
 
 <br /> <br />
 I will be on the 2024-2025 job market.
--->
+--->
 Examples of my most recent original research paper drafts can be found under the "Research" tab at the top of this page. 
 
 <!---
