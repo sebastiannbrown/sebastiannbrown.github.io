@@ -2,21 +2,26 @@
 title: "Combating Inequality with Transparency? Evidence from Colorado (with Thomas Fullagar)"
 collection: research
 permalink: /research/2024-08-13-PostingTransparency
-excerpt: 'Does greater transparency in job postings help to reduce wage differentials? We use a synthetic control approach to study the effect of a recent state-level law in Colorado requiring requiring employers to list expected salary information in job listings and do not find that it had its intended effect of reducing the gender pay gap.'
+excerpt: 'Does greater transparency in job postings effectively reduce pay disparities? We use a synthetic control approach to study the effect of a recent state-level law in Colorado requiring requiring employers to list expected salary information in job listings and find evidence that it worked against its intended effect of reducing the gender pay gap.'
 date: 2024-08-13
 venue: ''
 paperurl: 'http://sebastiannbrown.github.io/files/PayTransparencyGenderGap.pdf'
 citation: 'Brown, Sebastian and Thomas Fullagar. &quot;Combating Inequality with Transparency? Evidence from Colorado.&quot; Working Paper, 2025.'
 ---
 
-Does giving workers more information on wages help eliminate wage differentials?
-We leverage a recent law passed in Colorado requiring employers to list the expected wages in job listings to study this question.
-Using a synthetic control approach, we find no causal evidence of a reduction in the gender gap in Colorado.
-On the contrary, our analysis suggests that the gender pay gap between men and women <i>increased</i> in Colorado after passage of the law,
-although this finding is not significant at the 5% level using placebo tests.
-We conduct additional correlational analysis on potential mechanisms through which the law could have impacted the gender pay gap (directed search, bargaining, and signal informativeness).
-Overall, our correlational evidence is consistent with male workers taking more advantage of the increased transparency in postings than female workers,
-which could have had an adverse effect on the policy's capacity to reduce the gender gap.
-Our paper highlights the importance of ensuring information policy is properly targeted to its intended beneficiaries.
+Does increasing wage transparency effectively reduce pay disparities? We
+address this question by examining the impact of Colorado’s Equal Pay for
+Equal Work Act, a pioneering statewide policy mandating that employers
+disclose salary ranges in all job postings. Employing a synthetic control
+method to compare Colorado’s experience with a carefully constructed
+counterfactual, we find no evidence that the law narrowed the gender
+earnings gap among newly hired workers. In fact, our estimates indicate
+a widening of approximately 15 percent, a statistically significant increase
+relative to the synthetic control. We perform additional correlational
+industry-level analysis, finding suggestive patterns consistent with gender
+differences in search or bargaining behavior. Our results highlight critical
+challenges in designing transparency policies and emphasize the necessity
+of ensuring that information interventions align closely with the behavioral
+responses of the intended beneficiaries.
 
 <!---Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).--->

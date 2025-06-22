@@ -19,10 +19,17 @@ author_profile: true
 {% endif %}
 {% endfor %}
 
+{% for post in site.research reversed %}
+{% if post.title == 'Supplementary Appendix' %}
+{% include archive-single.html %}
+{% endif %}
+{% endfor %}
+
 **Other Research**
 
 {% for post in site.research %}
 {% if post.title == 'How Much Can I Make? Insights on Belief Updating in the Labor Market (with Kenneth Chan)' %}
+{% elsif post.title == 'Supplementary Appendix' %}
 {% elsif post.title == 'Baseball and life expectancy: evidence from linked historical data (with Joseph Price and Jacob Van Leeuwen)' %}
 {% else %}
 {% include archive-single.html %}
