@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 Hello! I'm a PhD candidate in economics finishing my last year at the University of California, Santa Barbara. I primarily do applied work in labor economics using techniques and theory from microeconomics and behavioral economics. My research agenda focuses on the role of information and learning in the labor market. I am currently working on projects studying behavioral job search, pay transparency legislation, and independent contractor legislation.
-<br /> <br />
 
 <!---
 Additionally, I care deeply about undergraduate student success as an educator. My teaching philosophy centers on creating interactive learning experiences that help students build intuition and confidence with challenging concepts. I also emphasize giving students chances to articulate their understanding of material to ensure they can apply what they learn outside the classroom.
