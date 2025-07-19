@@ -23,5 +23,3 @@ differences in search or bargaining behavior. Our results highlight critical
 challenges in designing transparency policies and emphasize the necessity
 of ensuring that information interventions align closely with the behavioral
 responses of the intended beneficiaries.
-
-<!---Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).--->
