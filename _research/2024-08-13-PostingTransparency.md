@@ -23,3 +23,6 @@ differences in search or bargaining behavior. Our results highlight critical
 challenges in designing transparency policies and emphasize the necessity
 of ensuring that information interventions align closely with the behavioral
 responses of the intended beneficiaries.
+
+
+[Download paper here](http://sebastiannbrown.github.io/files/PayTransparencyGenderGap.pdf)

@@ -12,16 +12,15 @@ citation: 'Brown, Sebastian. &quot;Gig Workers and Mandated Benefits: Evidence f
 
 <!---Abstract Here--->
 
-Are legal rules requiring minimum benefits for gig workers effective in
-improving gig worker welfare? If independent contractor wages increase,
-how does their labor supply respond? To study these questions, I explore
-the effects of a recently enacted state-wide legislation in Washington mandating minimum transportation network company driver pay rates and
-paid sick leave on counties that did not previously have similar legislation.
-Relative to my constructed synthetic controls, I estimate that the law increased average nonemployer establishment earnings by about $1,191 and
-decreased the number of establishments by about 8 per 100,000 residents
-during the first year it was effective. These differences are only associated with
-p-values of 0.08 and 0.21, respectively, under placebo testing. Hence, I cannot reject the null hypothesis of zero effect at the 5% level.
-Additional descriptive analysis using household survey data suggests that the new
-legislation might have allowed those driving as a primary occupation to
-earn higher effective hourly wages, leading to similar yearly earnings with
+Are legal rules requiring minimum benefits for gig workers effective in improving gig worker welfare? If independent contractor wages increase,
+how does their labor supply respond? To study these questions, I explore the effects of a recently enacted state-wide legislation in Washington
+mandating minimum transportation network company driver pay rates and paid sick leave on counties that did not previously have similar legislation.
+Using administrative tax data, I study the effects on self-employed workers in the taxi and limousine services industry (which includes both taxi and
+transportation network company drivers). Relative to my constructed synthetic controls, I estimate that the law increased average earnings by
+about $1,191 and decreased the number of workers by about 8 per 100,000 residents during the first year it was effective. However, these differences
+do not remain statistically significant under placebo testing. Additional descriptive analysis using household survey data suggests that the new
+legislation might have allowed those driving as a primary occupation to earn higher effective hourly wages, leading to similar yearly earnings with
 fewer hours of work.
+
+
+[Download paper here](http://sebastiannbrown.github.io/files/DriverMinPayRates.pdf)
